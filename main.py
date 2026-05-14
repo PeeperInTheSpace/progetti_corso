@@ -10,5 +10,6 @@ if __name__ == "__main__":
     print(f"Risultato della somma (5 + 3): {risultato}")
 
 #Test pull request - Failed
-#Test pull request 2
-#test pull request 3
+#Test pull request 2 - Failed
+#Test pull request 3 - Failed
+#Test pull request 4
